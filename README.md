@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrUCL07
+- 👋 Hi, I’m Rithvik @MrUCL07
 - 👀 I’m interested in python for now
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on few projects.
